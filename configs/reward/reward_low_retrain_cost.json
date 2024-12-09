@@ -1,0 +1,7 @@
+{
+    "tn_reward": 4,
+    "tp_reward": 4,
+    "type1_error_cost": -6,
+    "type2_error_cost": -6,
+    "retrain_cost": 0
+}

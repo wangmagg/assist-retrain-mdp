@@ -1,0 +1,7 @@
+{
+    "center": 0.5,
+    "sigma": 0.1,
+    "min_p": 0.6,
+    "max_p_left": 0.8,
+    "max_p_right": 0.8
+}
